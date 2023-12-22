@@ -1,2 +1,2 @@
 # coding
- Introduzione al coding
+ Introduzione al coding con Python
