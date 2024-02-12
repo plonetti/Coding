@@ -11,7 +11,7 @@ MODULO 1:
 MODULO 2:
 - variabili, tipi di dati, operatori , commenti
 - input e output dei dati
-- matematica...numeri e operatori ..modulo math
+- numeri e operatori ..modulo math
 - stringhe
 
 MODULO 3:

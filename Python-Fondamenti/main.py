@@ -1,7 +1,7 @@
 """
 Corso base Python
-
 """
 
-
-print (" Benvenuti al corso Python")
+def main():
+    print (" Benvenuti al corso Python")
+main()
